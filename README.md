@@ -1,2 +1,2 @@
 # LearningJAVA
-Pequeno projetos e linhas que estou aprendendo
+Pequenos projetos e linhas que estou aprendendo
