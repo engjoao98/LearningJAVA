@@ -1,7 +1,7 @@
+package dominiomeu.maratonajava.introducao;
+
 public class PrimeiroCodigo {
     public static void main (String[] args){
         System.out.println("Olá IntelliJ !");
     }
 }
-
-teste
