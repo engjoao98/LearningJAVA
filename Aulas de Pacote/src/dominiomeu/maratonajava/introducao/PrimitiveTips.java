@@ -28,13 +28,15 @@ public class PrimitiveTips {
 
         System.out.println(letter + " = char (ASCII 65)");
 
-        // Trying to do casting on tips
-        //
-        // int testMom = (int) 10000000000D;
-        //
-        // float testSon = (float) 100.2D;
-        //
-        // System.out.println(testMom);
-        // System.out.println(testSon);
+        /*
+         Trying to do casting on tips
+         int testMom = (int) 10000000000D;
+         float testSon = (float) 100.2D;
+         System.out.println(testMom);
+         System.out.println(testSon);
+        */
+
+        String test = "Testing string";
+        System.out.println("//"+test+"//");
     }
 }
